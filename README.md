@@ -1,6 +1,4 @@
-Yep — here’s a **ready-to-drop-in `README.md`** for your project. You can copy this directly into a file called `README.md` at the root of your repo.
 
-I wrote it to match exactly what you built: OpenAI LLM + Hugging Face Transformers hybrid NLP pipeline.
 
 ## 📚 Resources
 

@@ -259,16 +259,3 @@ Built as part of hands-on learning with:
 MIT (or your preferred license)
 
 ```
-
----
-
-If you’d like next, I can help you add:
-
-✅ `.gitignore`  
-✅ `requirements.txt`  
-✅ FastAPI server version  
-✅ Architecture diagram  
-✅ Deployment instructions  
-
-Just tell me 👍
-```

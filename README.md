@@ -257,5 +257,3 @@ Built as part of hands-on learning with:
 ## 📜 License
 
 MIT (or your preferred license)
-
-```
